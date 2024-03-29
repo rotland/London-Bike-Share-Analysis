@@ -56,4 +56,13 @@ Monday, Tuesday, Wednesday & Thursday show the highest number of riders, while t
 About 76% of the total bikes have been used on weekdays & 24% were used on weekends
  
 ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/d4fb9957-362d-4f91-8545-31619fa52b01)
+
+ # Bikes used on Holidays vs non-holidays.
+Almost 99% of the total bike was used on non-holidays, while about 1% were used on holidays.
  
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/807bc12f-b98e-4eef-8469-a125aa9c258d)
+
+# Number of Bikes on Holidays for the Year 2015
+The bars show the total number of bikes used for particular holiday. Spring bank holiday show the highest number of bikes used, it is a day off work for most people in London, businesses & organization.
+
+ ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/e20a52ff-1d9b-48e1-89f9-5beae9fb123c)
