@@ -98,4 +98,23 @@ Graph showing relation between humidity, windspeed and number of bikes used on a
 
 Humidity has negative correlation with bike usage. As humidity in the air increases, the number of bikes usage reduces gradually when the weather is rainy or broken cloud.
 
+ ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/d486e6da-1f5b-48bf-9ddc-9abe295d285d)
+
+ Graph showing relation between humidity, windspeed and number of bikes used on a broken cloud day.
+
+  ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/cd3a2fb2-af1b-49af-8853-a9a58d30bf86)
+  
+Graph showing relation between humidity, windspeed and number of bikes used on a rainy day.  
+
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/4ea57720-5881-4db1-97d9-bc7dd9e51150)
+
+Graph showing relation between humidity, windspeed and number of bikes used on a snowy day.
+
+ # Relation between Temperature and Number of Bikes 
+The bar chart shows the total number of riders for each month and the line chart shows the average temperature. As temperature increases so does the number of riders. It seems temperature has a positive correlation with number of riders.
+
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/18621c67-90cb-4776-a68d-04c560a62d2c)
+
+
+
 
