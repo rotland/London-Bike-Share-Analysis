@@ -50,5 +50,10 @@ This analysis shows the general statistics for London bike share dataset, by usi
 Total Number of Riders by Weekdays 
 Monday, Tuesday, Wednesday & Thursday show the highest number of riders, while the number of riders is much lower in the weekend. people use bike mostly during weekdays i.e., to & from work.
 
-![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/7c6695d7-3377-4797-98d6-dc456517a706)
+ ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/96616ca8-0cb0-47bd-8b41-9d7e27158e60)
 
+ # Number of Bikes Used on Weekdays & Weekends
+About 76% of the total bikes have been used on weekdays & 24% were used on weekends
+ 
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/d4fb9957-362d-4f91-8545-31619fa52b01)
+ 
