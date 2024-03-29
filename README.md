@@ -115,6 +115,22 @@ The bar chart shows the total number of riders for each month and the line chart
 
 ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/18621c67-90cb-4776-a68d-04c560a62d2c)
 
+ # How does number of bikes change with humidity, temperature and windspeed
+As humidity decreases, the chances of precipitation decrease, naturally number of bike rides increases. The opposite is true for temperature. People are more likely to use bikes in summer and spring months when temperature is moderate, than in winter months when its freezing cold! There is no visible correlation between wind speed and number of bikes. 
+
+The vertical lines in Humidity, Temperature and Wind speed graphs show their average values.
+
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/f49d8218-4727-45e4-b5ba-95772917081f)
+
+ # Conclusion:
+From the above analysis, the following conclusions can be drawn:
+1.	Weather and seasons have an influence over the number of bike riders in London. Temperate weather conditions as can be seen in summer and fall, draws more riders out than a rainy or snowy day.
+2.	Number of riders seems to increase as temperature increases, annually as well as daily. July and August had the highest number of riders, while these were also the warmest months in 2015.
+3.	Number of riders gradually decreases as humidity of the air increases. It coincides well with people heading out on clearer days than on cloudy or rainy days.
+4.	Most people tend to use bikes during the daytime rush-hours i.e., at 8 AM and 5 PM during weekdays, as they commute to and from workplaces. On weekends most people use bikes in early afternoon (1PM — 5PM).
+
+
+
 
 
 
