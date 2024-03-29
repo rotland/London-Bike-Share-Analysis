@@ -66,3 +66,36 @@ Almost 99% of the total bike was used on non-holidays, while about 1% were used 
 The bars show the total number of bikes used for particular holiday. Spring bank holiday show the highest number of bikes used, it is a day off work for most people in London, businesses & organization.
 
  ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/e20a52ff-1d9b-48e1-89f9-5beae9fb123c)
+
+ # Riders Hours of the Day and Bike
+ 8 AM & 5 PM shows the highest number of bike riders, which correspond to the time that people go to & from work. 
+
+  ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/484232f4-a115-49a4-acba-093d861062b6)
+
+ # Bike used on weekends in various seasons.
+Summer had the highest number of bike users on weekends than any other seasons.
+ 
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/a02329f9-1c20-41c2-859a-1fd712db500f)
+
+From our analysis People used the bikes mainly for work commutes but as can be seen from the graphs on weekdays, many people used them mostly from 8am and 7pm, people also used them for leisure as weather gets better in the weekend.
+
+ #  Part 2:
+Investigating the effects of season, weather, temperature, humidity and wind speed over the bike usage.
+Riding bike is an outdoor activity and naturally it is affected by weather and seasons equally. As a summer morning will draw more people out than a rainy or snowy day, it is important to consider the effect of seasons as well.
+
+
+ # Number of Riders in Four Seasons
+Around 3.2million people used London bike service in summer months alone, followed by 2.43million in Autumn and 2.4million in Spring, Winter shows the lowest number of riders in 2015 -1.69million
+
+![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/14f5da1e-e325-4a05-8b9a-85b28b18d319)
+
+ # Effect of humidity and windspeed on number of bike riders 
+For most past of the year, London has a humidity between 50% - 80% which means there is high chance of precipitation. Number of bike riders gradually increase when the weather is clear as seen from the chart. Number of bikes change with humidity, windspeed, temperature and weather.
+
+ ![image](https://github.com/rotland/London-Bike-Share-Analysis/assets/65259178/748022c7-d6c7-4ada-b8f9-6845e2f6f52c)
+ 
+Graph showing relation between humidity, windspeed and number of bikes used on a clear day.
+
+Humidity has negative correlation with bike usage. As humidity in the air increases, the number of bikes usage reduces gradually when the weather is rainy or broken cloud.
+
+
